@@ -18,12 +18,14 @@ import java.util.Map;
  */
 public class Coeficient {
     
+
+    
     public static final Float LDPI = 0.75f;
     public static final Float MDPI = 1f;
-    public static final Float HDPI = 1.5f;
-    public static final Float XHDPI = 2.0f;
-    public static final Float XXHDPI = 3.0f;
-    public static final Float XXXHDPI = 4.0f;
+    public static final Float HDPI = 1.2f;
+    public static final Float XHDPI = 1.8f;
+    public static final Float XXHDPI = 2.4f;
+    public static final Float XXXHDPI = 3.0f;
     
     public static final String LDPI_MAP_NAME = "LDPI";
     public static final String MDPI_MAP_NAME = "MDPI";
